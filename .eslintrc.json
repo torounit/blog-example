@@ -1,6 +1,7 @@
 {
   "extends": [
-    "next/core-web-vitals",
+    "next",
+    "prettier",
     "plugin:eslint-plugin-next-on-pages/recommended"
   ],
   "plugins": [

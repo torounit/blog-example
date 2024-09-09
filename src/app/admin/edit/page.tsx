@@ -1,10 +1,9 @@
-import Edit from '@/app/admin/edit/Edit';
+import Edit from "@/app/admin/edit/Edit";
 
 export default function Page() {
-    return (
-        <div>
-            <Edit />
-        </div>
-
-    )
+  return (
+    <div>
+      <Edit />
+    </div>
+  );
 }
